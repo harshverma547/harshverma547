@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Web developer and Data Analyst from India</h3>
 
 <img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
-- 🔭 I’m currently Studying B.Tech in CS
+- 🔭 I’m currently Studying B.Tech in CS <br>
 - 📫 How to reach me **theharshverma2008@gmail.com**
 
 <h3 align="left">Connect with me:</h3>

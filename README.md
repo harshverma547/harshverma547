@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Harsh Verma</h1>
 <h3 align="center">A Passionate Web developer and Data Analyst from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.bing.com/images/search?view=detailV2&ccid=LEH5tUEQ&id=FDF72191A5590ED04408A310CF78557E53D10249&thid=OIP.LEH5tUEQReWe8Iu-UEV3PgHaFj&mediaurl=https%3a%2f%2fcdn.dribbble.com%2fusers%2f926537%2fscreenshots%2f4502924%2fpython-2.gif&exph=600&expw=800&q=animated+coding+gif&simid=608038589711192230&FORM=IRPRST&ck=06FE3A8CFFC3DCCE49126E51DF39FEB6&selectedIndex=14&itb=0](https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif)">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 
 - 📫 How to reach me **theharshverma2008@gmail.com**
 

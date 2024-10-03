@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="250" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/python-2.gif">
 - 🔭 I’m currently Studying B.Tech in CS <br>
-- 📫 How to reach me <a href="theharshverma2008@gmail.com">theharshverma2008@gmail.com</a>.
+- 📫 How to reach me <a href="mailto:theharshverma2008@gmail.com">theharshverma2008@gmail.com</a>.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
